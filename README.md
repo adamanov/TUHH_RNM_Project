@@ -46,3 +46,5 @@ between the mounted camera (”eye”) and the robot’s end effector (”hand�
 #### Task 5: Model recording and registration
 In order to obtain a 3D Scan of the chest phantom, the camera has to be driven around the phantom.
 Based on given a 3D CAD model of phantom, the model registration had to be done. 
+
+``` ```
