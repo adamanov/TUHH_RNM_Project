@@ -48,6 +48,6 @@ In order to obtain a 3D Scan of the chest phantom, the camera has to be driven a
 Based on given a 3D CAD model of phantom, the model registration had to be done. 
 
 
-```ROS Node Structure```
+### ROS Node Structure
 
 <img src="documentation/images/ros_node_structure.png" width="320" height="240" />
