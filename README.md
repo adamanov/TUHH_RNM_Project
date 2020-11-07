@@ -24,7 +24,7 @@ exchange the camera for a needle (mock-up) and let the robot perform the inserti
 
 ### Tasks: 
 
-#### Task1: [Robot kinematics](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
+#### Task 1: [Robot kinematics](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
 
 In the final application you will need to move the robot
 • for recoding of poses for the hand-eye calibration
@@ -47,4 +47,7 @@ between the mounted camera (”eye”) and the robot’s end effector (”hand�
 In order to obtain a 3D Scan of the chest phantom, the camera has to be driven around the phantom.
 Based on given a 3D CAD model of phantom, the model registration had to be done. 
 
-``` ```
+
+```ROS Node Structure```
+
+<img src="documentation/images/ros_node_structure.png" width="320" height="240" />
