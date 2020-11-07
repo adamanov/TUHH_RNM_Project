@@ -24,26 +24,26 @@ exchange the camera for a needle (mock-up) and let the robot perform the inserti
 
 ### Tasks: 
 
-#### Task1: Robot kinematics
+#### Task1: [Robot kinematics](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
 
 In the final application you will need to move the robot
 • for recoding of poses for the hand-eye calibration
 • for scanning the chest phantom from different sides
 • for the needle insertion
 
-#### Task 2: Trajectory planning
+#### Task 2: [Trajectory planning](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
 In order to move the robot to a desired target it needed to send the robot a continous trajectory
 of joint positions.
 
-#### Task 3: Camera calibration
+#### Task 3: [Camera calibration](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src/camera_calibration)
 The Kinect Azure has an RGB and a depth camera. The calibration of the Kinect had to be 
 done so that it captures the true geometries of the world.
 
-#### Task 4: Eye-in-hand calibration
+#### Task 4: [Eye-in-hand calibration](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src/camera_calibration)
 In order to stich the pointclouds of the chest phantom, it is needed to know the transformation
 between the mounted camera (”eye”) and the robot’s end effector (”hand”)
 
-#### Task 5: Model recording and registration
+#### Task 5: [Model recording and registration](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src/point_cloud_generator/src)
 In order to obtain a 3D Scan of the chest phantom, the camera has to be driven around the phantom.
 Based on given a 3D CAD model of phantom, the model registration had to be done. 
 
