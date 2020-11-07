@@ -1,4 +1,4 @@
-# TUHH_RNM_Project
+# Robotics and Navigation in Medicine
 
 ### Group Project: Image Guided Robotic NeedlePlacement
 
