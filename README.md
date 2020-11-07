@@ -1,6 +1,6 @@
 # Robotics and Navigation in Medicine
 
-### Group Project: Image Guided Robotic NeedlePlacement
+### Group Project: Image Guided Robotic Needle Placement
 
 In this project, we developed an image guided robotic needle placement system using the
 Robot Operating System (ROS) framework. You used a depth camera (Kinect Azure by
