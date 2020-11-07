@@ -26,10 +26,12 @@ exchange the camera for a needle (mock-up) and let the robot perform the inserti
 
 #### Task 1: [Robot kinematics](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
 
-In the final application you will need to move the robot
+In the final application you will need to move the robot 
+```
 • for recoding of poses for the hand-eye calibration
 • for scanning the chest phantom from different sides
 • for the needle insertion
+```
 
 #### Task 2: [Trajectory planning](https://github.com/adamanov/TUHH_RNM_Project/tree/master/src)
 In order to move the robot to a desired target it needed to send the robot a continous trajectory
