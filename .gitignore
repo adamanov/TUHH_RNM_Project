@@ -1,0 +1,3 @@
+/build
+/src/camera_calibration/cmake-build-debug
+/src/point_cloud_generator/cmake-build-debug
