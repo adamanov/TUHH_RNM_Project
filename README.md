@@ -2,6 +2,17 @@
 
 ### Group Project: Image Guided Robotic NeedlePlacement
 
+In this project, you developed an image guided robotic needle placement system using the
+Robot Operating System (ROS) framework. You used a depth camera (Kinect Azure by
+Microsoft) mounted on a robot arm (Panda by Franka Emika) to record 3D images of a chest
+phantom. We had to find the transformation between the robot’s endeffector and the
+camera with an eye-in-hand calibration. Using this transformation we had to be able to stich the
+individual images to a combined scan while the robot drives the camera around the phantom.
+We had then register this scan to a high resolution model, obtained from computer tomography.
+Within the high resolution model a target for the needle will be given. We were required to perform
+trajectory planning to find a collision free and kinematically feasible path to the target. Lastly,
+exchange the camera for a needle (mock-up) and let the robot perform the insertion.
+
 <img src="documentation/images/photo_2020-11-07_23-21-34.jpg" width="320" height="240" />  <img src="documentation/images/photo_2020-11-07_23-21-39.jpg" width="320" height="240" /> 
 
 
