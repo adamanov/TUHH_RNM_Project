@@ -52,3 +52,5 @@ Based on given a 3D CAD model of phantom, the model registration had to be done.
 ### ROS Node Structure
 
 <img src="documentation/images/ros_node_structure.png" width="320" height="240" />
+
+[main git of project](https://github.com/johnmockler/rnm_group_2)
