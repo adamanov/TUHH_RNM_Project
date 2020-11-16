@@ -56,7 +56,7 @@ Based on given a 3D CAD model of phantom, the model registration had to be done.
 [main git of project](https://github.com/johnmockler/rnm_group_2)
 
 ### References
-#### Camera Calibration & Hand Eye Calibration
+#### Camera Calibration & Hand-Eye Calibration
 - [Tutorials: OpenCV Camera Calibration](https://www.youtube.com/playlist?list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP)
 - [Non-orthogonal tool/flange and robot/worldcalibration](https://www.rob.uni-luebeck.de/publikationen_downloads/ermm_12.pdf-b46951f770e1e17036ee6b18fe686a1b.pdf)
 
