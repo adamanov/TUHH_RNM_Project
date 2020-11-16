@@ -56,5 +56,11 @@ Based on given a 3D CAD model of phantom, the model registration had to be done.
 [main git of project](https://github.com/johnmockler/rnm_group_2)
 
 ### References
-[Tutorials: 3D-Object-Registration and Tracking](https://robotica.unileon.es/index.php/PhD-3D-Object-Tracking)
-[Tutorials: OpenCV Camera Calibration](https://www.youtube.com/playlist?list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP)
+- [Tutorials: OpenCV Camera Calibration](https://www.youtube.com/playlist?list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP)
+- [Non-orthogonal tool/flange and robot/worldcalibration](https://www.rob.uni-luebeck.de/publikationen_downloads/ermm_12.pdf-b46951f770e1e17036ee6b18fe686a1b.pdf)
+
+- [3D Object Recognition based on Correspondence Grouping](https://pcl.readthedocs.io/en/latest/correspondence_grouping.html#correspondence-grouping)
+- [Hypothesis Verification for 3D Object Recognition](https://pcl.readthedocs.io/en/latest/global_hypothesis_verification.html#global-hypothesis-verification)
+- [Tutorials: 3D-Object-Registration and Tracking](https://robotica.unileon.es/index.php/PhD-3D-Object-Tracking)
+
+- [Real-Time Plane Segmentationusing RGB-D Camera](https://www.willowgarage.com/sites/default/files/holz_rgbd_seg.pdf)
