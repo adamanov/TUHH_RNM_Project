@@ -54,3 +54,7 @@ Based on given a 3D CAD model of phantom, the model registration had to be done.
 <img src="documentation/images/ros_node_structure.png" width="320" height="240" />
 
 [main git of project](https://github.com/johnmockler/rnm_group_2)
+
+### References
+[Tutorials: 3D-Object-Registration and Tracking](https://robotica.unileon.es/index.php/PhD-3D-Object-Tracking)
+[Tutorials: OpenCV Camera Calibration](https://www.youtube.com/playlist?list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP)
