@@ -20,6 +20,7 @@ exchange the camera for a needle (mock-up) and let the robot perform the inserti
 ### [Project Description](https://github.com/adamanov/TUHH_RNM_Project/blob/master/documentation/ProjectDescription2020_update080520.pdf)
 ### [Project Plan](https://github.com/adamanov/TUHH_RNM_Project/blob/master/documentation/RNM_ProjectPlan_Group2updated.pdf)
 ### [Project Report](https://github.com/adamanov/TUHH_RNM_Project/blob/master/documentation/RNM_Report_Group_2.pdf)
+### [Link to Lecture](https://mtec.et8.tuhh.de/teaching/rnm2020s.html)
 
 
 ### Tasks: 
